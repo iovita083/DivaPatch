@@ -5,7 +5,9 @@
 Super simple tool to directly patch *Hatsune Miku: Project DIVA Arcade Future Tone* to load plugins on startup, functioning the same as `PD-Loader` but far simpler
 
 Patching:
+
 `python DivaPatch.py diva.exe`
 
 Usage:
-DivaPatch works identically to `PD-Loader` but much simpler, just use the same `plugins` folder you would for PD-Loader and it will load all of the `.dva` plugins.
+
+DivaPatch works identically to `PD-Loader` , just use the same `plugins` folder you would for `PD-Loader` and it will load all of the `.dva` plugins on game startup
